@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009168827351",
+    "firebase_url": "https://chatlocat.firebaseio.com",
+    "project_id": "chatlocat",
+    "storage_bucket": "chatlocat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009168827351:android:310534485adc4f4f31c192",
+        "android_client_info": {
+          "package_name": "br.com.bossini.fatec_ipi_noite_pdm_firebase_auth_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009168827351-jhor4l4e373equvog1jbe1ede6ivu4fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.fatec_ipi_noite_pdm_firebase_auth_firestore",
+            "certificate_hash": "7ab45682986562ab706d27f54b705eacb361df3c"
+          }
+        },
+        {
+          "client_id": "1009168827351-21qcplmgtkblubcg67fnbv8ljfe5l170.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJTRtNYMPJrDrYv4iJjJVQvzjZ4z5SBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009168827351-21qcplmgtkblubcg67fnbv8ljfe5l170.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
